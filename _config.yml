@@ -1,2 +1,7 @@
 theme: jekyll-theme-cayman
 description: "This is a demo website for reproducible workshop series"
+navbar:
+ title: ""
+ left:
+  - text: "Home"
+    href: index.md
