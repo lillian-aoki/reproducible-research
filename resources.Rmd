@@ -1,0 +1,25 @@
+---
+title: "resources"
+author: "LRA"
+date: "9/29/2021"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+## Articles
+
+Bryan, J. (2017). Excuse me, do you have a moment to talk about version control? (e3159v2). PeerJ Inc. <https://doi.org/10.7287/peerj.preprints.3159v2>  
+
+Lowndes, J. S. S., Best, B. D., Scarborough, C., Afflerbach, J. C., Frazier, M. R., O’Hara, C. C., Jiang, N., & Halpern, B. S. (2017). Our path to better science in less time using open data science tools. Nature Ecology & Evolution, 1(6), 1–7. <https://doi.org/10.1038/s41559-017-0160>  
+
+Peng, R. D., & Hicks, S. C. (2021). Reproducible Research: A Retrospective. Annual Review of Public Health, 42(1), 79–93. <https://doi.org/10.1146/annurev-publhealth-012420-105110>  
+
+Wilkinson, M. D., Dumontier, M., Aalbersberg, Ij. J., Appleton, G., Axton, M., Baak, A., Blomberg, N., Boiten, J.-W., da Silva Santos, L. B., Bourne, P. E., Bouwman, J., Brookes, A. J., Clark, T., Crosas, M., Dillo, I., Dumon, O., Edmunds, S., Evelo, C. T., Finkers, R., … Mons, B. (2016). The FAIR Guiding Principles for scientific data management and stewardship. Scientific Data, 3(1), 160018. <https://doi.org/10.1038/sdata.2016.18>  
+
+## Computing best practices
+
+Style guide for the tidyverse in R; useful for thinking about naming and organizing code files, variables and functions.  <https://style.tidyverse.org/index.html>  
+
