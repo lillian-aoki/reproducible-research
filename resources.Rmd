@@ -1,7 +1,5 @@
 ---
-title: "resources"
-author: "LRA"
-date: "9/29/2021"
+title: ""
 output: html_document
 ---
 
@@ -9,7 +7,7 @@ output: html_document
 knitr::opts_chunk$set(echo = TRUE)
 ```
 
-## Articles
+### Articles
 
 Bryan, J. (2017). Excuse me, do you have a moment to talk about version control? (e3159v2). PeerJ Inc. <https://doi.org/10.7287/peerj.preprints.3159v2>  
 
@@ -19,7 +17,7 @@ Peng, R. D., & Hicks, S. C. (2021). Reproducible Research: A Retrospective. Annu
 
 Wilkinson, M. D., Dumontier, M., Aalbersberg, Ij. J., Appleton, G., Axton, M., Baak, A., Blomberg, N., Boiten, J.-W., da Silva Santos, L. B., Bourne, P. E., Bouwman, J., Brookes, A. J., Clark, T., Crosas, M., Dillo, I., Dumon, O., Edmunds, S., Evelo, C. T., Finkers, R., … Mons, B. (2016). The FAIR Guiding Principles for scientific data management and stewardship. Scientific Data, 3(1), 160018. <https://doi.org/10.1038/sdata.2016.18>  
 
-## Computing best practices
+### Computing best practices
 
 Style guide for the tidyverse in R; useful for thinking about naming and organizing code files, variables and functions.  <https://style.tidyverse.org/index.html>  
 
