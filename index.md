@@ -2,8 +2,8 @@
 title: "Reproducible Workshop Series"
 ---
 
-### About
+### [About](index.html)
 This is a demo website for a reproducible research workshop series.
 {{site.descrption}}
-### Resources
+### [Resources](resources.html)
 Readings and other resources are available [here](resources.html)
