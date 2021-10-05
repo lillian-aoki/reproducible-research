@@ -3,7 +3,7 @@ This series of workshops will introduce tools and practices for conducting repro
 ### Workshop 1: Reproducible Research Workflows
 Reproducibility is central to scientific inquiry. In this workshop, participants will discuss the principles underlying reproducible research (e.g., FAIR data, open science) and consider how to build a reproducible research workflow. Exercises will focus on best practices that facilitate reproducibility and collaboration, such as file and project organization. This is a non-technical workshop (although computational tools will be discussed).
 
-[slides](01_research_workflow.pdf)
+[slides](slides/01_research_workflow.pdf)
 
 ### Workshop 2: Version Control with Git
 Data analysis can produce a lot of files – raw data, processed data, scripts, model outputs, and more! Version control keeps these files organized and tracks changes over time, making it easier for you to reproduce your analyses and to step backward/’undo’ changes as needed during the analysis process. In this workshop, participants will learn the basics of using git for version control (e.g. initializing and committing to local repositories). We will use both the command line and a Git client to practice basic Git commands and workflow
