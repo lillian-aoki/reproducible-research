@@ -1,4 +1,4 @@
-theme: jekyll-theme-cayman
+#theme: jekyll-theme-cayman
 description: "This is a demo website for reproducible workshop series"
 title: "Reproducible Research Workshops"
 #output_dir: ../docs
