@@ -1,8 +1,23 @@
 theme: jekyll-theme-cayman
 description: "This is a demo website for reproducible workshop series"
 title: "Reproducible Research Workshops"
+#output_dir: ../docs
 navbar:
- title: ""
- left:
-  - text: "Home"
-    href: index.md
+  title: workshop_website
+  left:
+  - text: Home
+    href: index.html
+  - text: Modules
+    href: modules.html
+  - text: Resources
+    href: resources.html
+  right:
+  - icon: fa-github
+    text: Source code
+    href: https://github.com/lillian-aoki/workshop_website
+output:
+  html_document:
+    toc: yes
+    toc_float: yes
+    theme: cosmo
+    highlight: textmate
